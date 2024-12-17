@@ -1,13 +1,9 @@
-# 🧑‍💻 Diego Polanski
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/> 
+    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Diego+Polanski+;Tenho+20+anos;+Sou+natural+de+Belo+Horizonte,+MG;+Sou+estudante+de+Ciência+da+Computação+na+PUC+Minas;+Bem-vindo+ao+meu+perfil!+%3A%29)](https://git.io/typing-svg)
+ 
 
-**`Estudante de Ciência da Computação`**
 
-Olá, sou Diego Polanski, aluno do 5° período de Ciência da Computação da PUC Minas. 
-
-Sou um estudante dedicado e comprometido, sempre com a intenção de aprender cada vez mais. Ao longo dos meus estudos, tenho tido como foco principal transformar ideias em soluções funcionais e eficientes.
-Acredito que a melhor maneira de se desenvolver um trabalho ou uma ideia, é com o esforço em equipe, colaboração e troca de ideias. Ao participar ativamente de projetos em grupo, ficou evidente a importância da comunicação eficaz para a conclusão do objetivo.
-
-Estou em busca de novas oportunidades e desafios, que me permitam ampliar meu conhecimento e minha experiência como estudante e futuro profissional da computação..
 
 <p align="left">
     <!-- Botão do LinkedIn -->
@@ -97,7 +93,6 @@ Estou em busca de novas oportunidades e desafios, que me permitam ampliar meu co
 <br/>
 <br/>
 
----
 
 ### 📊 Estatísticas
 <div align="center">
