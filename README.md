@@ -97,6 +97,7 @@ Estou em busca de novas oportunidades e desafios, que me permitam ampliar meu co
 <br/>
 <br/>
 
+---
 
 ### 📊 Estatísticas
 <div align="center">
