@@ -15,7 +15,7 @@ Estou em busca de novas oportunidades e desafios, que me permitam ampliar meu co
         <img 
             alt="Siga - me no LinkedIn" 
             title="Siga-me no LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Siga%20no%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=005983"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=005983"
         />
     </a> 
 <a href="mailto:polanskidiego@gmail.com" target="_blank">
