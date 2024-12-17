@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Diego+Polanski+;Tenho+20+anos;Sou+de+Belo+Horizonte,+Minas+Gerais;Estudo+Ciência+da+Computação+na+PUC+Minas;Bem-vindo+ao+meu+perfil!+%3A%29)](https://git.io/typing-svg)
  
 
-
+---
 
 <p align="left">
     <!-- Botão do LinkedIn -->
