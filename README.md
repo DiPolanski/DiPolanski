@@ -75,14 +75,6 @@
 />
 <img 
     align="left" 
-    alt="Dart" 
-    title="Dart" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" 
-/>
-<img 
-    align="left" 
     alt="SQL" 
     title="SQL" 
     width="30px" 
